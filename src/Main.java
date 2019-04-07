@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     /**
-     * @author Dominik Popwoski
+     * @author Dominik Popowski
      *
      *
      */

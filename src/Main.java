@@ -1,7 +1,11 @@
 import java.util.Scanner;
 
 public class Main {
-
+    /**
+     * @author Dominik Popwoski
+     *
+     *
+     */
     public static void main(String[] args) {
         ProductDatabase database=new ProductDatabase();
         database.databaseUpdate();

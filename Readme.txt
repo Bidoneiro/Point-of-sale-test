@@ -1,7 +1,7 @@
 This program represents an imitation of a selling point. As input we have barcodes. 
 When the proper code is "scanned" we will receive answer with information about product
 and purchase it if it is available.
-Currently barcodes included ine the database are 11111,22222,33333,44444,55555. 
+Currently barcodes included in the database are 11111,22222,33333,44444,55555. 
 They are set in the file "product database.txt". 
 You can add products by yourself following the formula:
 Barcode:
